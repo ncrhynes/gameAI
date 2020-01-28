@@ -1,0 +1,11 @@
+﻿  TronGUI.cpp
+C:\Users\natha\Google Drive\Computer Science\4303\A2\src\TronGUI.cpp(121,56): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\natha\Google Drive\Computer Science\4303\A2\src\TronGUI.cpp(121,49): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\natha\Google Drive\Computer Science\4303\A2\src\TronGUI.cpp(119,1): warning C4996: 'sf::Text::setColor': was declared deprecated
+C:\Libraries\SFML-2.5.1\include\SFML\Graphics\Text.hpp(210): message : see declaration of 'sf::Text::setColor'
+  Generating code
+  0 of 573 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFMLGame.vcxproj -> C:\Users\natha\Google Drive\Computer Science\4303\A2\visualstudio\../bin/SFMLGame.exe

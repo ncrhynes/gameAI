@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\src\main.cpp" />
+    <ClCompile Include="..\src\TronPlayer.cpp" />
+    <ClCompile Include="..\src\TronAI.cpp" />
+    <ClCompile Include="..\src\TronGUI.cpp" />
+    <ClCompile Include="..\src\TronLevel.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\TronPlayer.h" />
+    <ClInclude Include="..\src\TronAI.h" />
+    <ClInclude Include="..\src\TronGUI.h" />
+    <ClInclude Include="..\src\TronLevel.h" />
+  </ItemGroup>
+</Project>
